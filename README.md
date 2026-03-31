@@ -94,4 +94,6 @@ AUSTIN_CRIME_DETECTION/
 ```
 
 ## Notes:
-APD sector boundaries are used for consistency; some sectors may span multiple districts.
+- APD sector boundaries are used for consistency; some sectors may span multiple districts.
+- Large files (e.g., Crime_Reports.csv and austin-crime_reports_clean) are excluded from this repo to keep lightweight.
+- The dashboard uses 'data/austin_crime_preprocessed.csv' , which is included.
