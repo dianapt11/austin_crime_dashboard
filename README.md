@@ -14,6 +14,7 @@ Crime incidents are aggregated by **official APD sectors** rather than relying o
 ## Demo
 ![Dashboard Screenshot](images/austin_crime_dashboard_screenshot.png)
 
+## View Dashboard Here: https://austin-crime-dashboard.streamlit.app/
 
 ## Key Findings from Exploratory Data Analysis
 Before building the dashboard, I conducted an exploratory data analysis to better understand patterns in the dataset and guide visualization design decisions.
