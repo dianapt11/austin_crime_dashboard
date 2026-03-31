@@ -1,0 +1,16 @@
+# ignore these large files; too big to upload to github
+data/Crime_Reports.csv
+data/austin_crime_reports_clean.csv
+
+#Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
